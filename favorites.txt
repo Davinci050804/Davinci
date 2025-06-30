@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Sushi
 Tacos
+=======
+Inception
+Interstellar
+Spirited Away
+>>>>>>> movies
